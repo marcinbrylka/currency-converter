@@ -1,0 +1,30 @@
+.converter {
+    padding: 20px;
+    background-color: #e2e2e2;
+}
+
+.input {
+    height: 35px;
+    padding: 5px 10px;
+    border: 1px solid #9aa29f;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.select {
+    height: 35px;
+    padding: 5px 10px;
+    border: 1px solid #9aa29f;
+    border-radius: 3px;
+}
+
+.button {
+    height: 35px;
+    padding: 5px 10px;
+    margin-left: 20px;
+    border: 1px solid #9aa29f;
+    border-radius: 3px;
+    background-color: #4c7feb;
+    color: white;
+    cursor: pointer;
+}
