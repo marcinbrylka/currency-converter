@@ -1,8 +1,8 @@
-#Currency converter
+# Currency converter
 Project is based on [NBP Web API](http://api.nbp.pl/)
-###Technologies
+### Technologies
 - React.js
-###Instalation
+### Instalation
 - npm install
-###Run
+### Run
 - npm run start
